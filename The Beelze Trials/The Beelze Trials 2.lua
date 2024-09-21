@@ -68,7 +68,6 @@ end
 		
 unaffected(ass)
 unaffected(beelze)
-unaffected(am)
 
 Debug.ReloadFieldEnd()
 Debug.ShowHint("You have 1 turn to defeat your opponent.")
