@@ -35,7 +35,6 @@ Debug.AddCard(72053645,0,0,LOCATION_MZONE,0,POS_FACEUP_ATTACK,true) --Weather Re
 Debug.AddCard(95727991,0,0,LOCATION_GRAVE,0,POS_FACEUP) --Catapult Turtle
 
 --Monster Zones (opponent's)
-local am = Debug.AddCard(28776350,1,1,LOCATION_MZONE,6,POS_FACEUP_ATTACK,true)     --Akashic Magician
 local ass = Debug.AddCard(73218989,1,1,LOCATION_MZONE,2,POS_FACEUP_ATTACK,true)    --Black-Winged Assault Dragon
 local beelze = Debug.AddCard(34408491,1,1,LOCATION_MZONE,4,POS_FACEUP_ATTACK,true) --Beelze of the Diabolic Dragons
 
