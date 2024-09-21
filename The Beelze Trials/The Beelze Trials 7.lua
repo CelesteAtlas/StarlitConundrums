@@ -63,7 +63,6 @@ function unaffected(card)
 		card:RegisterEffect(e7)
 end
 
-unaffected(am)
 unaffected(beelze)
 unaffected(ass)
 
