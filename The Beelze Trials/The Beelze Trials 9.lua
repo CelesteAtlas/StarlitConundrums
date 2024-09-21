@@ -12,7 +12,7 @@ Note: All 3 monsters your opponent controls are unaffected by spell cards and ef
 
 Debug.ReloadFieldBegin(DUEL_ATTACK_FIRST_TURN+DUEL_SIMPLE_AI,5)
 Debug.SetPlayerInfo(0,8000,0,0)
-Debug.SetPlayerInfo(1,6400,0,0)
+Debug.SetPlayerInfo(1,3500,0,0)
 
 --Main Deck (yours)
 Debug.AddCard(8662794,0,0,LOCATION_DECK,0,POS_FACEDOWN)  --Codebreaker Zero Day
