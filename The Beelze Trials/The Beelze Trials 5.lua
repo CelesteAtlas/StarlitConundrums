@@ -15,7 +15,6 @@ Debug.SetPlayerInfo(0,8000,0,0)
 Debug.SetPlayerInfo(1,6400,0,0)
 
 --Main Deck (yours)
-Debug.AddCard(8662794,0,0,LOCATION_DECK,0,POS_FACEDOWN)  --Codebreaker Zero Day
 Debug.AddCard(83764718,0,0,LOCATION_DECK,0,POS_FACEDOWN) --Monster Reborn
 Debug.AddCard(95727991,0,0,LOCATION_DECK,0,POS_FACEDOWN) --Catapult Turtle
 
